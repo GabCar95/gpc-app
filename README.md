@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+![Logo](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-logo%20-%20Copy.png?raw=true)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# GPC Service web application
 
-In the project directory, you can run:
+A website built with React and Tailwind for a small solar panel cleaning business.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Authors
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [@GabCar95](https://www.github.com/GabCar95)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Frontend
 
-### `npm run build`
+- React
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Tailwind CSS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
 
-### `npm run eject`
+- Mobile responsive
+- Website hosted
+- React smooth scroll
+- Responsive google map
+- Active contact form
+- React-Responsive-Carousel
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+###  Homepage
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-homepage.png?raw=true)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### About
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-about%20-%20Copy.png?raw=true)
 
-## Learn More
+### Service
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-services%20-%20Copy.png?raw=true)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Map/ Hours
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-map%20-%20Copy.png?raw=true)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Contact form
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-contact%20-%20Copy.png?raw=true)
 
-### Code Splitting
+## Mobile view
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Homepage
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-home-mobile%20-%20Copy.png?raw=true)
 
-### Analyzing the Bundle Size
+### About
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-about-mobile.png?raw=true)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Img Carousel
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-carousel-mobile%20-%20Copy.png?raw=true)
 
-### Making a Progressive Web App
+### Service
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-service-mobile%20-%20Copy.png?raw=true)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Hours/ Contact form
+![App Screenshot](https://github.com/GabCar95/gpc-app/blob/master/screenshots/gpc-contact-mobile%20-%20Copy.png?raw=true)
