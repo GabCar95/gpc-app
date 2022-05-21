@@ -3,7 +3,7 @@
 
 # GPC Service web application
 
-A website built with React and Tailwind for a small solar panel cleaning business.
+A website built with React and Tailwind for a small solar panel cleaning business. Active site https://gpcsocal.com/.
 
 
 ## Authors
@@ -21,7 +21,6 @@ A website built with React and Tailwind for a small solar panel cleaning busines
 ## Features
 
 - Mobile responsive
-- Website hosted
 - React smooth scroll
 - Responsive google map
 - Active contact form
